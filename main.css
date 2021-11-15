@@ -264,7 +264,7 @@ a:active{
     line-height: 20px;
     text-align: center;
 }
-.boxgalaxy{
+.boxart{
     position: absolute;
     width: 200.91px;
     height: 250px;
@@ -276,7 +276,7 @@ a:active{
     box-shadow: 2px 2px 7px gray;
     z-index: 1;
 }
-.astrotxt{
+.artetxt{
     position: absolute;
     width: 185px;
     height: 29px;
@@ -289,7 +289,7 @@ a:active{
     line-height: 37px;
     text-align: center;
 }
-.boxart{
+.boxgalaxy{
     position: absolute;
     width: 200.91px;
     height: 250px;
@@ -301,7 +301,7 @@ a:active{
     box-shadow: 2px 2px 7px gray;
     z-index: 1;
 }
-.artetxt{
+.astrotxt{
     position: absolute;
     width: 185px;
     height: 29px;
