@@ -295,7 +295,7 @@ a:active{
     height: 250px;
     left: 596px;
     top: 224px;
-    background: url (galaxia.jpg);
+    background: url(galaxia.jpg);
     background-size: 100%;
     border-radius: 20px;
     box-shadow: 2px 2px 7px gray;
