@@ -271,7 +271,7 @@ a:active{
     left: 318px;
     top: 224px;
     background: url(vangogh.jpg);
-    background-size: 222%;
+    background-size: 100%;
     border-radius: 20px;
     box-shadow: 2px 2px 7px gray;
     z-index: 1;
@@ -296,7 +296,7 @@ a:active{
     left: 596px;
     top: 224px;
     background: url(galaxia.jpg);
-    background-size: 100%;
+    background-size: 222%;
     border-radius: 20px;
     box-shadow: 2px 2px 7px gray;
     z-index: 1;
